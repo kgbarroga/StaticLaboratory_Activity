@@ -9,13 +9,13 @@ public class Player {
 
     /**
      * Static Variable Requirement
-     * Create a static Variable called max_level(int)
+     * Create a static Variable called max_level(int)(private)
      * It should hold the value of the Max Level of the players created.
      */
 
 
     /**
-     * Create static variable called player_count(int)
+     * Create static variable called player_count(int)(private)
      * It should hold the value of 
      */
 
@@ -29,7 +29,7 @@ public class Player {
 
     }
     /**
-     * Create getters for max_level, and counter
+     * Create static methods - getters for max_level, and counter
      * @return max_level
      * 
      */
