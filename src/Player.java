@@ -16,7 +16,7 @@ public class Player {
 
     /**
      * Create static variable called player_count(int)(private)
-     * It should hold the value of 
+     * It should hold the value of the total players created
      */
 
 
