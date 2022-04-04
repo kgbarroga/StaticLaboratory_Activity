@@ -18,6 +18,11 @@ public class App {
          * Player one = new Player("Marco",100)
          */
 
+        /**
+         * Display total Players
+         * Display Max Level Among the Player Objects Created
+         */
+
 
     }
 }
